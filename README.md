@@ -1,2 +1,2 @@
 # practice
-pra
+This is a practice repo
